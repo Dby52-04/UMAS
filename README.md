@@ -13,7 +13,7 @@ Requires Python 3 (tested with 3.11).
 
 ```bash
 pip install -r requirements.txt
-python run.py data/debate_gpt-4o-mini_aqua-rat.json.gz
+python src/run.py data/debate_gpt-4o-mini_aqua-rat.json.gz
 ```
 
 The output is AUROC (%) for predicting whether the final answer is correct.
