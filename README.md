@@ -2,8 +2,8 @@
 
 Hanwen Li, Jinhao Duan, Xiaoshuang Shi, Yue Zhang, Tianlong Chen, Kaidi Xu, Chenxi Yuan
 
-This is the official implementation of the NeurIPS 2026 paper *UMAS: System-Level Uncertainty
-Quantification for Multi-Agent LLM Systems*.
+This is the official implementation of the NeurIPS 2026 paper
+[*UMAS: System-Level Uncertainty Quantification for Multi-Agent LLM Systems*](https://dby52-04.github.io/assets/files/UMAS_NeurIPS2026.pdf).
 
 ![UMAS overview](assets/overview.png)
 
