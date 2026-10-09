@@ -50,7 +50,7 @@ AQUA-RAT questions. It also stores the question, the answer and each node's outp
 @inproceedings{li2026umas,
   title     = {{UMAS}: System-Level Uncertainty Quantification for Multi-Agent {LLM} Systems},
   author    = {Li, Hanwen and Duan, Jinhao and Shi, Xiaoshuang and Zhang, Yue and Chen, Tianlong and Xu, Kaidi and Yuan, Chenxi},
-  booktitle = {Advances in Neural Information Processing Systems},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
   year      = {2026}
 }
 ```
